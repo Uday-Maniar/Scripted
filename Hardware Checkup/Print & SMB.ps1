@@ -1,0 +1,1 @@
+Enable-WindowsOptionalFeature -Online -FeatureName "Printing-Foundation-Features", "Printing-Foundation-LPRPortMonitor", "Printing-Foundation-LPDPrintService", "SMB1Protocol", "SMB1Protocol-Client", "SMB1Protocol-Server", "SMB1Protocol-Deprecation" -All

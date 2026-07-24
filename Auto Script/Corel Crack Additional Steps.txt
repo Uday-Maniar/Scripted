@@ -1,0 +1,18 @@
+Add Below Entries In Hosts File
+C:\Windows\System32\drivers\etc\hosts
+
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 validation.corel.com
+127.0.0.1 corel.com
+
+
+Press Windows Key + R, type %appdata%, open the Corel folder, and delete the "Messages" folder.
+
+open the Command Prompt, type ipconfig /flushdns, and hit Enter
+
+GO To Tools---> Option---> CorelDraw or Options (Depends On Version)
+In General---> On CorelDraw Start-up Select Nothing From Dropdown Menu
